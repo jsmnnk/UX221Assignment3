@@ -22,12 +22,27 @@
     </url>
     <url>
         <loc>
-            http://localhost:8000/products/sample-product-page/
+            http://localhost:8000/products/cat-tree/
         </loc>
     </url>
     <url>
         <loc>
-            http://localhost:8000/products/cat-tree/
+            http://localhost:8000/products/litter-box/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/feeder/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/cat-bed/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/toy-set/
         </loc>
     </url>
     <url>
